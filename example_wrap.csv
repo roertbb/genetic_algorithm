@@ -1,0 +1,2 @@
+instance_name;size_of_initial_population;max_population_size;dest_population_size;time;mutation_percentage;crossover_percentage;roulette_percentage;save_sufix;savdirectory;gen;
+instance0;50;100;50;30;12;86;100,76,52;_id1;test_solution;0;

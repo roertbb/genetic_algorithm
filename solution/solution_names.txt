@@ -1,0 +1,17 @@
+﻿Opis poszczególnych plików z rozwiązaniami:
+
+time_comparison - suma czasów zakończenia dla kolejnych instancji w zależności od generatora
+
+mut - % populacji poddawanej mutacji
+cross - % populacji poddawanej krzyżowaniu
+sel - wzrost prawdopodobieństwa turnieju
+maxpop - maksymalny rozmiar populacji
+maxpop_2nd - maksymalny rozmiar populacji - 2 wykres
+destpop - rozmiar populacji otrzymanej poprzez selekcję
+
+min_task - minimalny czas zadania
+max_task - maksymalny czas zadania
+task_diff - różnica między min i max czasem zadania
+maint_num - liczba przerw konserwacyjnych ponad k = ceil(n/4)
+task_maint - wzrost minimalnego i maksymalnego czasu maintenance'ów
+same_time - różna liczba zadań, dla tej samej wartosci sumy czasów operacji na poszczególnych maszynach

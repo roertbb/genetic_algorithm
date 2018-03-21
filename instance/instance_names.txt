@@ -1,0 +1,8 @@
+instance0 - instance20.txt - pomiary dla strojenia metaheurystyki
+maint - iloœæ maintenance'ów ponad k=ceil(n/4)
+min_task - minimalny czas zadania
+max_task - maksymalny czas zadania
+task_diff - ró¿nica miêdzy minimalnym, a maksymalnym czasem zadania
+short_long - wzrost minimlnego i maksymalnego czasu maintenance'a
+same_time - ró¿na liczby zadañ dla tej samej wartosci sumy operacji na poszczególnych maszynach
+
